@@ -3,7 +3,7 @@
 a plugin loader for
 [meatspace-chat](https://github.com/meatspaces/meatspace-chat)
 
-visit [meatparties](https://github.com/meatspaces/meatspace-chat) to install the bookmarklet
+visit [meatparties](http://diffalot.github.io/meatparties/) to install the bookmarklet
 # it should
 
 1. be able to load registered plugins
