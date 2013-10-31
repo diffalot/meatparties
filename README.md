@@ -1,8 +1,10 @@
 # meatparties
 
-a plugin loader for meatspace-chat
+a plugin loader for
+[meatspace-chat](https://github.com/meatspaces/meatspace-chat)
 
-# it should:
+visit [meatparties](https://github.com/meatspaces/meatspace-chat) to install the bookmarklet
+# it should
 
 1. be able to load registered plugins
 2. be able to load plugins from a user supplied url
