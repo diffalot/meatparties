@@ -1,9 +1,6 @@
-{
-	[
-		{ 
-			"name" : "meatsong",
-			"href" : "https://raw.github.com/diffalot/meatparties/gh-pages/meatsong/meatsong.js"
+[
+	{ 
+		"name" : "meatsong",
+		"href" : "https://raw.github.com/diffalot/meatparties/gh-pages/meatsong/meatsong.js"
 	}
-	]
-}
-
+]
