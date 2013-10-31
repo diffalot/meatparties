@@ -8,6 +8,6 @@ var logger = function (data) {
 $.ajax({
 	url: PATH + 'guestlist.json',
 	dataType: 'jsonp',
-	jsonp: true,
+	jsonp: false,
 	jsonpCallback: 'logger'
 });
