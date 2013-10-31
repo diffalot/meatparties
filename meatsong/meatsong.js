@@ -5,7 +5,7 @@
 // Apache2 license. 
 // ideas/comments welcome --> https://gist.github.com/6a68/7239724
 
-var PATH = 'https://rawgithub.com/6a68/6a68.github.com/meatsong/src/';
+var PATH = 'http://diffalot.github.io/meatparties/meatsong/';
 var audiodiv = document.createElement('div')
 audiodiv.id = 'audio';
 document.body.appendChild(audiodiv);
